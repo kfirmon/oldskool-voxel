@@ -4,7 +4,9 @@
 
 The OldSkool Voxel model format is a plain text format representing an arrangement of cubes in three dimensional space, with additional metadata. 
 
-Example:
+= Example =
+
+Fish travel in schools, so here's an OldSkool model of our piscine companion:
 
 {{{
 Description: Fish!
