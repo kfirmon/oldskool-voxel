@@ -60,3 +60,7 @@ Show All: no
 00020
 00000
 }}}
+
+And here is the model rendered:
+
+http://oldskool-voxel.googlecode.com/svn/wiki/fish_rendered.png
